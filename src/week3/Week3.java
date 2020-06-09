@@ -17,6 +17,7 @@ public class Week3 {
     public static void main(String[] args) {
         // TODO code application logic here
         System.out.println("Week 3 How pull works");
+        System.out.println("Week 3 How pull occur");
     }
     
 }
