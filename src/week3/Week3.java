@@ -18,6 +18,7 @@ public class Week3 {
         // TODO code application logic here
         System.out.println("Week 3 How pull works");
         System.out.println("Week 3 How pull occur");
+        //fetch+merge
     }
     
 }
