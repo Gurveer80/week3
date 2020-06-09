@@ -19,6 +19,7 @@ public class Week3 {
         System.out.println("Week 3 How pull works");
         System.out.println("Week 3 How pull occur");
         //fetch+merge
+        //gur
     }
     
 }
